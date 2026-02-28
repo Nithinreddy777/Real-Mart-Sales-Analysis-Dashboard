@@ -1,4 +1,4 @@
-# Real-Mart-Sales-Analysis-Dashboard
+## Real-Mart-Sales-Analysis-Dashboard
 # Project Objective
 The objective of this project is to analyze retail sales performance across multiple dimensions such as product categories, cities, branches, customer demographics, and payment methods.
 This dashboard aims to:
@@ -11,11 +11,30 @@ Understand customer purchasing behavior
 
 Track monthly sales trends
 
-Support data-driven decision-making for retail growth
+Support data-driven decision-making for retail growth 
 
-# Data Set Used 
+# Overview 
+The Real Mart Sales Analysis Dashboard is an interactive retail analytics project built to evaluate and visualize business performance across key operational and customer dimensions.
 
-<img width="1852" height="657" alt="real mart screensshot" src="https://github.com/user-attachments/assets/fdc70c64-aad8-4607-afbf-aa9097a6a6be" /> Dashboard Screenshot</a>
+This dashboard consolidates raw transactional data into meaningful KPIs and visual insights, enabling clear understanding of sales trends, profitability, branch performance, and customer behavior.
+
+It transforms complex retail data into a structured, decision-oriented reporting system that helps stakeholders quickly assess:
+
+Revenue performance
+
+Profit generation
+
+Regional contribution
+
+Product category impact
+
+Customer purchasing patterns
+
+By combining KPI metrics, trend analysis, and interactive filtering, the dashboard provides a complete performance snapshot in a single view, supporting data-driven business decisions.
+
+## Dashbooard
+
+<img width="1852" height="657" alt="real mart screensshot" src="https://github.com/user-attachments/assets/fdc70c64-aad8-4607-afbf-aa9097a6a6be" />
 
 
 # Key Feautures 
@@ -82,4 +101,63 @@ Gender
 Time Period
 
 Enables dynamic analysis and customized reporting.
+
+# Data Set Used 
+
+- <a href="https://github.com/Nithinreddy777/Real-Mart-Sales-Analysis-Dashboard/blob/main/Excel_Final_Project_Data_Set.xlsx" > Data Set </a>
+
+- <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FNithinreddy777%2FReal-Mart-Sales-Analysis-Dashboard%2Frefs%2Fheads%2Fmain%2FExcel_Final_Project_Data_Set.xlsx&wdOrigin=BROWSELINK" >Dashboard Link
+
+# Project Insights 
+
+Mumbai generates the highest sales, making it the strongest market among the three cities.
+
+Branch C significantly outperforms other branches in terms of revenue.
+
+Cash remains the dominant payment method, indicating traditional customer preference.
+
+Certain product categories contribute more to gross income, suggesting higher profitability margins.
+
+Monthly trends show fluctuations, indicating possible seasonal demand patterns.
+
+# Tools Used 
+
+Microsoft Excel
+
+Pivot Tables
+
+Pivot Charts
+
+KPI Cards
+
+Slicers & Interactive Controls
+
+## Final Conclusion 
+
+The Real Mart Sales Analysis Dashboard provides a comprehensive view of retail performance by integrating multiple business dimensions into a single interactive interface.
+
+The analysis reveals:
+
+Clear regional performance differences
+
+Strong branch-level revenue contribution
+
+Valuable customer payment behavior insights
+
+Opportunities for strategic growth in lower-performing areas
+
+This dashboard demonstrates strong skills in:
+
+Data Cleaning & Transformation
+
+Pivot Tables & KPI Metrics
+
+Data Visualization
+
+Business Insight Generation
+
+Interactive Dashboard Design in Excel 
+
+
+
 
