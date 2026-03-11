@@ -39,7 +39,7 @@ By combining KPI metrics, trend analysis, and interactive filtering, the dashboa
 
 
 ## Key Feautures 
-🔹 KPI Overview
+ KPI Overview
 
 Total Sales: ₹6,59,272.48
 
